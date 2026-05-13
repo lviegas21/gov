@@ -5,6 +5,28 @@
 
 ---
 
+# 🎥 Demonstração
+
+Fluxo completo do laboratório:
+
+- Flutter
+- Keycloak
+- Authorization Code + PKCE
+- Retorno para o app
+- Backend Spring Boot
+- JWT
+- Endpoint `/me`
+
+![demo](./demo.gif)
+
+Vídeo completo:
+- [▶️ demo.mp4](./demo.mp4)
+
+---
+
+
+---
+
 ## Sumário
 
 1. [Objetivo do laboratório](#1-objetivo-do-laboratório)
